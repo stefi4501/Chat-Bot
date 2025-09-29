@@ -1,9 +1,8 @@
 import tkinter as tk
 from tkinter import ttk, scrolledtext, messagebox, simpledialog
 import re
-import json
 import datetime
-from typing import Dict, List, Tuple, Set
+from typing import Dict, Tuple
 import threading
 import time
 
